@@ -23,10 +23,9 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   usage
-   supported_services
-   features
-   api
+   Accept Terms
+   Registration
+   Login
 
 Supported Services
 ------------------
