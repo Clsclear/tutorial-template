@@ -23,9 +23,8 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   Accept Terms
-   Registration
-   Login
+   usage
+
 
 Supported Services
 ------------------
