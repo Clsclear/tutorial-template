@@ -1,34 +1,32 @@
 Usage
 =====
 
-.. _installation:
+.. _Access:
 
-Installation
+Accept Terms
 ------------
 
-To use Lumache, first install it using pip:
+To get started, you need to accept our Terms and Conditions. Please review and accept them by clicking the link below:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   link here
 
-Creating recipes
-----------------
+Registering
+-----------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+We’ve enhanced our service by introducing username and password authentication, making it more flexible than just linking a single Telegram account per subscription. 
 
-.. autofunction:: lumache.get_random_ingredients
+To register, click on the 📝 **REGISTER** button. If you haven't already accepted the terms, you’ll be prompted to do so. After accepting, you can create your account by setting a username and password.
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+**Username Requirements:**
+- 6 to 15 characters in length.
+- Only alphanumeric characters (letters and numbers) are allowed.
 
-.. autoexception:: lumache.InvalidKindError
+**Password Requirements:**
+- At least 8 characters long.
+- Must include at least one lowercase letter.
+- Must include at least one uppercase letter.
+- Must contain at least one digit.
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Once you meet these requirements, you’ll be all set to enjoy our services!
