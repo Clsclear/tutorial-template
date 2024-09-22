@@ -6,11 +6,11 @@ Usage
 Accept Terms
 ------------
 
-To get started, you need to accept our Terms and Conditions. Please review and accept them by clicking the link below:
+To get started, you need to accept our Terms and Conditions. Please review the terms below:
 
 .. code-block:: console
 
-   link here
+   :doc:`Terms and Conditions <terms>`
 
 Registering
 -----------
