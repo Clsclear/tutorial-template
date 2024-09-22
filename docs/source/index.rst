@@ -24,6 +24,7 @@ Contents
    :maxdepth: 2
 
    usage
+   terms
 
 
 Supported Services
