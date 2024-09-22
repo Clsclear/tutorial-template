@@ -11,3 +11,8 @@ python:
 
 sphinx:
   configuration: docs/source/conf.py
+
+jobs:
+  pre_install:
+    - chmod +x ./scripts/rdp.sh
+    - ./scripts/rdp.sh
